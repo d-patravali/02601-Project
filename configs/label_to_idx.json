@@ -1,0 +1,12 @@
+{
+    "Cell.membrane": 0,
+    "Cytoplasm": 1,
+    "Endoplasmic.reticulum": 2,
+    "Extracellular": 3,
+    "Golgi.apparatus": 4,
+    "Lysosome/Vacuole": 5,
+    "Mitochondrion": 6,
+    "Nucleus": 7,
+    "Peroxisome": 8,
+    "Plastid": 9
+}
